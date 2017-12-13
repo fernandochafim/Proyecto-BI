@@ -1,0 +1,7 @@
+base
+tibble
+data.table
+dplyr
+zoo
+xts
+dygraphs
